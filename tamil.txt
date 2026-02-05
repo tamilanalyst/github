@@ -2,3 +2,13 @@ The Tamil Nadu Public Service Commission is a government
 body of the state of Tamil Nadu, India, responsible for the 
 recruitment of candidates for various state government 
 jobs through competitive examinations. 
+Python is one of the most popular and widely
+used programming languages nowadays, because o
+f its simplicity, extensive features and support
+of libraries. Python also has clean and simple syntax,
+which makes it beginner-friendly, while it also provides
+powerful libraries and frameworks that make it perfect for developers.
+
+Our Python tutorial thoroughly explains Python basic
+s and advanced concepts, starting with installation,
+conditional statements, loops, bu
